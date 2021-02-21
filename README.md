@@ -1,4 +1,4 @@
-# FarewellB-SideTAS
+# Farewell B-Side TAS
 
 ## Map Used:
 * [Farewell B-Side 2.5-97f3a](https://gamebanana.com/dl/513363)  

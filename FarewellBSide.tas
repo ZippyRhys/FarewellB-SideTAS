@@ -242,20 +242,21 @@ console load LumaCeleste/0/10-FarewellB
    4,R
    6,R,D,X
    1,R,J,G
-   7,R
+   5,R
+   1,R,J
+   2,R
   40
 #lvl_b-4
-   4,R
+   3,R
    1,R,J
   13,R,D,X
-  19,R,J
+  18,R,J
   13,G
   35,R,D,G
   35,R
   24,R,U,X
   13,G
-   8,R
-   1,R
+   9,R
   14,R,D
    5,L,D
    8,L

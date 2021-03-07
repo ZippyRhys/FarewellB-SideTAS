@@ -372,7 +372,6 @@ console load LumaCeleste/0/10-FarewellB
    5,R,J
    5
   12,R
-***s
    1,G
   20,D
    6,L,D
@@ -387,123 +386,123 @@ console load LumaCeleste/0/10-FarewellB
  101,R,U,J,G
    7
   14,U,X
-
   13,G
  180,L,U,J,G
   38,L,G
    7,L
   14,L,U,X
   13,G
-
   27,L,D,G
-
-   1
-  18,D
-  17,R,D
+  14
+   5,D
+   7,R,D
+  10,R
   22,L
   15,L,D,X
-  12,L,J
+   5,L,J
+   7,J
   15,U,X
   13,G
   13,R
   15,U,X
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#   5,L,D
-#   4,D,X
-#  20,R
-#  25,R,X
-#   5,J,G
-#   1,L,J
-#   1,R,K,G
-#   1,R,J,G
-#   5,R,K,G
-#   5,R
-#   2,R,J
-#  11,R
-#   1,R
-#   8,D
-#   7,L
-#   3
-#   2,L
-#   1
-#   1,J,G
-#   7
-#   1,L
-#   1
-#   1,L
-#   1
-#   1,L
-#   1
-#   1,R,J
-#  12,R
-#   2
-#  10,L,X
-#  18,R,J
-#  13,G
-#  82,R,G
-#   7
-#  14,U,X
-#  13,G
-
-# 210,L,U,J,G
-#  15,L,D,G
-#   1,L,D
-#  11,D
-#  14,U,X
-#  13,G
-#   3,U,G
-#   3,L,U,G
-#  40,L,U,J,G
-#   1,L
-#   8,L,D
-#  28,R,D
-
-#  23,L
-#  15,L,D,X
-#   8,L,J
-#  14,U,X
-#  13,G
-#  13,L,G
-#   1,R
-#   4,L
-#   4,D,X
-#   9,U
-#   1,J
-
-
-
-
   40
 #lvl_c-start
-***
-  10,R
-   6,R,J,G
-   1,R,K,G
-
-  11,R,U,X
-   2,R,J,G
-   1
-   1,R
+   8,R
    1,R,J,G
- 111,R,C
+   7,R,K,G
+   8,R,J,G
+  10,R,X
+  10,R,J
+  14,U,X
+  13,G
+  12,G
+   1,D
+  15
+   8,U,X
+  13,G
+  17,U,G
+   1,D
+  10
+  10,U,X
+  13,G
+  11,U,G
+   1,D
+  15
+   8,U,X
+  13,G
+   4,U,G
+   4,L,U,G
+   1,D
+  13
+   7,U,X
+  13,G
+   8,R,U,G
+  40
+#lvl_c-lobbyn
+   4,L
+   7,R
+  10,L,X
+  13,G
+   5,L,J,G
+  14,L,G
+   4,J,G
+  44,L,U,J,G
+  16,L
+   2
+   4,D,X
+  11,L,U,X
+   9,L
+  13,G
+  17,L,G
+   8,L,D,G
+   1,L,D
+   8,L
+   2,L,D
+   4,L
+   4,D,X
+   1,L,J
+   8,L
+  24,L,J
+  12,L,D,X
+   1,L,J
+   6,L,K,G
+   8,L
+   1,L,J
+  43
+#lvl_c-2
+   1,L,J
+   4,D,X
+  10,U,X
+  13,J
+   3,R,K
+   7,R
+   4,D,X
+   1,R,J
+  40
+#lvl_c-lobbyn
+   7,R
+   5,R,J
+  14,U,X
+  13,G
+  19,U,G
+   1,D
+  13
+  10,U,X
+  13,G
+   8,U,G
+   1,D
+  13
+   7,U,X
+  13,G
+   9,U,G
+   1,D
+  16
+   7,U,X
+  13,G
+   1,U,G
+  22,R,U,G
+   5,R
+   4,D,X
+  11,R,U,X
+  32,R
+  15,U,X
